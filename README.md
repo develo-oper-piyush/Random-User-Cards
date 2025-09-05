@@ -1,4 +1,4 @@
-# 🔍 Random User Cards
+# 👤 Random User Cards
 
 Created by Piyush as a project for learning FetchAPI in JS.
 
